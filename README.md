@@ -1,5 +1,6 @@
 # Brain#
 Hello there fellow coders! Brain# is just an improved version of Brain(obscene word). It has a few more features, and I will present them to you all today.
+Also, write your code in the program.b# file.
 
 ## +
 Just takes the current pointer position, and increases the value at that place in the tape by 1.
